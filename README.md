@@ -1,7 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 <div align="center">
-  <img src="https://giphy.com/gifs/rick-roll-lgcUUCXgC8mEo/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy-downsized.gif" width="480" height="360"/>
 </div>
+
+## About me :smiling_face_with_tear:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=idkwhodatis&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idkwhodatis&hide=c%23,html,shaderlab,css,c%2b%2b,hlsl,objective%2dc%2b%2b,cmake&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
