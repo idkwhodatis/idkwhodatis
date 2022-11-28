@@ -5,7 +5,7 @@
 
 ## About me :smiling_face_with_tear:
 - :telescope: I'm a 4th grade CS student @McMaster University
-- :seedling: I'm learning deep learning recently
+- :seedling: I'm learning deep learning and cyber security recently
 - :zap: I'm also an amateur EDM producer
 
 ## Languages and Tools :hammer_and_wrench:
