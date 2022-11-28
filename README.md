@@ -31,6 +31,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/idkwhodatis/icons/blob/main/audition/audition-original.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/idkwhodatis/icons/blob/main/flstudio/flstudio-originall.png" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/idkwhodatis/icons/blob/main/powerapps/powerapps-original.png" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/idkwhodatis/icons/blob/main/powerautomate/powerautomate-original.png" width="40" height="40"/>&nbsp;
 </div>
 
 
