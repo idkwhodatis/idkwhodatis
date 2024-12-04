@@ -4,9 +4,9 @@
 </div>
 
 ## About me :smiling_face_with_tear:
-- :telescope: I'm a 4th grade CS student @McMaster University
+- :telescope: I'm a new grad student @McMaster University
 - :seedling: I'm learning deep learning and cyber security recently
-- :zap: I'm also an amateur EDM producer
+- :zap: I'm also an EDM/Trap producer and singer
 
 ## Languages and Tools :hammer_and_wrench:
 <div>
